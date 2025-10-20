@@ -1,0 +1,11 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimension": 384,
+  "total_chunks": 32,
+  "build_time": 1760980674.9851475,
+  "total_generation_time_seconds": 16.214808464050293,
+  "embedding_generation_time_seconds": 1.01607346534729,
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "completion_time": "2025-10-20 20:17:54"
+}
