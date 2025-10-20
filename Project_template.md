@@ -70,3 +70,60 @@
 - **Недостатки**: Высокие первоначальные инвестиции
 
 **Вариант 3 является оптимальным выбором, так как обеспечивает необходимую производительность, безопасность и масштабируемость для корпоративных потребностей QuantumForge Software.**
+
+# Задание 2. Подготовка базы знаний
+
+### Логика подмены терминов: 
+
+1. Сохранял смысл и категорию: Например, "Niffler" → "Блескоискатель" (оба указывают на поиск блестящего)
+
+2. Перевод + адаптация: Брал английское значение и создавал русский аналог ("Thunderbird" → "Громоперый")
+
+3. Сочетаемость слов: Новые названия должны звучать относительно естественно в русском языке
+
+### Взял вселенную "Фантастические твари и где они обитают". Словарь замен в terms_map.json
+
+## Исходные данные:
+
+### 1. Существа
+
+https://harrypotter.fandom.com/wiki/Niffler
+
+https://harrypotter.fandom.com/wiki/Bowtruckle
+
+https://harrypotter.fandom.com/wiki/Thunderbird
+
+https://harrypotter.fandom.com/wiki/Occamy
+
+https://harrypotter.fandom.com/wiki/Demiguise
+
+https://harrypotter.fandom.com/wiki/Erumpent
+
+https://harrypotter.fandom.com/wiki/Graphorn
+
+https://harrypotter.fandom.com/wiki/Mooncalf
+
+https://harrypotter.fandom.com/wiki/Fwooper
+
+https://harrypotter.fandom.com/wiki/Jobberknoll
+
+### 2. Персонажи
+
+https://harrypotter.fandom.com/wiki/Newt_Scamander
+
+https://harrypotter.fandom.com/wiki/Tina_Goldstein
+
+https://harrypotter.fandom.com/wiki/Queenie_Goldstein
+
+https://harrypotter.fandom.com/wiki/Jacob_Kowalski
+
+https://harrypotter.fandom.com/wiki/Gellert_Grindelwald
+
+https://harrypotter.fandom.com/wiki/Credence_Barebone
+
+### 3. Организации и локации
+
+https://harrypotter.fandom.com/wiki/MACUSA
+
+https://harrypotter.fandom.com/wiki/Ilvermorny
+
