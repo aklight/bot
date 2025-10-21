@@ -195,3 +195,16 @@ python build_index.py
 Результат 2 (сходство: 0.5669):
 Источник: Темносила.txt
 Текст: Темносила - тёмная паразитическая сила, возни
+
+# Задание 4. Реализация RAG-бота с техниками промптинга
+
+Скрины по успешным ответам находятся в папке screenshots: task4_success_1, task4_success_2, task4_success_3
+Скрин по ответу "Не знаю" находbтся в папке screenshots: task4_fail_1
+
+```bash
+# Установка зависимостей
+pip install -r requirements_yandex.txt
+
+# Запуск бота
+python rag_bot_yandex.py
+```
